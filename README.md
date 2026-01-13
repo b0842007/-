@@ -5,9 +5,13 @@
 
 🛠️ 技術重點 
 核心硬體: Raspberry Pi 4B, Raspberry Pi Camera / USB Camera, VL53L1X ToF Sensor.
+
 開發語言: Python
+
 電腦視覺: Tensorflow Lite / MobileNet-SSD (物件辨識).
+
 作業系統: Ubuntu Server / Raspberry Pi OS.
+
 
 系統架構
 影像辨識模組:
